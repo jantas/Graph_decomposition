@@ -23,13 +23,13 @@ Cell[CellGroupData[{
 Cell["Graph Decomposition", "Title",
  CellChangeTimes->{{3.8282052989186535`*^9, 3.8282053202902856`*^9}},
  Background->RGBColor[
-  0.94, 0.91, 0.88],ExpressionUUID->"0da06984-a637-435a-afef-7051a05ff9e5"],
+  0.94, 0.91, 0.88],ExpressionUUID->"226a4457-c10b-48c8-9514-392e80df1872"],
 
 Cell[BoxData[
  RowBox[{"Clear", "[", "\"\<Global`*\>\"", "]"}]], "Input",
  CellChangeTimes->{
-  3.828206241195179*^9},ExpressionUUID->"d1761467-2d2e-4ec0-a3c8-\
-c9b8504ade6b"],
+  3.828206241195179*^9},ExpressionUUID->"a1368863-372a-420c-a42e-\
+fae95e105eb0"],
 
 Cell["\<\
 Let H be a graph with n edges. If there exists \[Rho]-labeling for graph H \
@@ -41,7 +41,7 @@ this is a \[Rho]-labeling and thus H decomposes K_7\
   3.8282054560992985`*^9, 3.8282056579328566`*^9}, {3.828206212176238*^9, 
   3.8282062592177143`*^9}},
  Background->RGBColor[
-  0.94, 0.91, 0.88],ExpressionUUID->"a8a7ceec-f057-43d6-b0ef-d35d42b48d2c"],
+  0.94, 0.91, 0.88],ExpressionUUID->"71f568fc-2740-45e5-b38d-43a2588c7b65"],
 
 Cell[CellGroupData[{
 
@@ -116,8 +116,8 @@ Cell[BoxData[{
     RowBox[{"Directive", "[", 
      RowBox[{"Black", ",", "15"}], "]"}]}]}], "]"}]}], "Input",
  CellChangeTimes->{{3.8282062989316807`*^9, 
-  3.828206323075181*^9}},ExpressionUUID->"9f46cf68-3b50-43e1-ad92-\
-8542521efded"],
+  3.828206323075181*^9}},ExpressionUUID->"3f2d4bfb-c73b-4399-826e-\
+f11c76c41f6f"],
 
 Cell[BoxData[
  GraphicsBox[
@@ -223,8 +223,8 @@ Cell[BoxData[
   FrameTicks->None,
   ImageSize->{133.63636363636365`, Automatic}]], "Output",
  CellChangeTimes->{{3.828206314000084*^9, 
-  3.8282063446075096`*^9}},ExpressionUUID->"2f0b3302-701c-4f32-b9f3-\
-9d1a2e363be3"]
+  3.8282063446075096`*^9}},ExpressionUUID->"00cad288-6989-403b-b744-\
+1f0e6f969e3a"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -317,8 +317,8 @@ Cell[BoxData[
    3.82820474137873*^9, 3.82820474867089*^9}, {3.8282047887244806`*^9, 
    3.8282051987956433`*^9}, {3.8282052524677086`*^9, 
    3.8282052821717157`*^9}, {3.8282056745638666`*^9, 
-   3.828205698092765*^9}},ExpressionUUID->"8b970e23-f7a0-4454-b782-\
-7ae39501652a"],
+   3.828205698092765*^9}},ExpressionUUID->"e881dab0-1436-4a07-bda0-\
+da4f55eaab94"],
 
 Cell[BoxData[
  TagBox[
@@ -375,8 +375,8 @@ $CellContext`v + 1; K = HighlightGraph[K, {
   Manipulate`InterpretManipulate[1]]], "Output",
  CellChangeTimes->{{3.8272526942746687`*^9, 3.8272527190106993`*^9}, 
    3.8282048918161564`*^9, 3.828205273231217*^9, 3.828205699301671*^9, 
-   3.828206346351695*^9},ExpressionUUID->"4d09fc18-fbfa-4f3a-9f7b-\
-649d0af75489"]
+   3.828206346351695*^9},ExpressionUUID->"b447b57e-fa35-4a68-872f-\
+14ba7f14e5ae"]
 }, Open  ]],
 
 Cell["\<\
@@ -387,7 +387,7 @@ Let H be a graph defined by:\
   3.8282054560992985`*^9, 3.8282056579328566`*^9}, {3.828205778291508*^9, 
   3.8282057982348995`*^9}, {3.8282059178345137`*^9, 3.828205929946553*^9}},
  Background->RGBColor[
-  0.94, 0.91, 0.88],ExpressionUUID->"121bbdd4-9f0f-46b4-9c1a-c54eec167f5c"],
+  0.94, 0.91, 0.88],ExpressionUUID->"e538c419-8515-4986-9cc3-0da3a4a73e12"],
 
 Cell[CellGroupData[{
 
@@ -451,8 +451,8 @@ Cell[BoxData[{
  RowBox[{"Graph", "[", "edges", "]"}]}], "Input",
  CellChangeTimes->{{3.828205813018968*^9, 3.8282059093190303`*^9}, {
   3.8282059694684134`*^9, 
-  3.8282059964990444`*^9}},ExpressionUUID->"c3e9fb1e-ad31-40c0-b902-\
-bc50debd1dc0"],
+  3.8282059964990444`*^9}},ExpressionUUID->"e92085b8-acbb-4fb2-90aa-\
+573e5efd0f24"],
 
 Cell[BoxData[
  GraphicsBox[
@@ -498,8 +498,8 @@ Cell[BoxData[
  CellChangeTimes->{
   3.8282058191013565`*^9, {3.8282058828867326`*^9, 3.828205910025917*^9}, {
    3.8282059791568527`*^9, 
-   3.8282059969655256`*^9}},ExpressionUUID->"f1fc22c5-354c-45c8-805a-\
-53f677eb4bb7"]
+   3.8282059969655256`*^9}},ExpressionUUID->"68d99874-18aa-478f-b66f-\
+04c429ed3b83"]
 }, Open  ]],
 
 Cell["In fact, v is a \[Rho]-labeling:", "Text",
@@ -508,7 +508,7 @@ Cell["In fact, v is a \[Rho]-labeling:", "Text",
   3.8282057982348995`*^9}, {3.8282059178345137`*^9, 3.8282059432750034`*^9}, {
   3.8282060192989707`*^9, 3.828206042723462*^9}},
  Background->RGBColor[
-  0.94, 0.91, 0.88],ExpressionUUID->"e5867779-b793-4d28-8fc0-d0ccebb4b24e"],
+  0.94, 0.91, 0.88],ExpressionUUID->"6a3437da-702c-46b5-873a-9de0e5a49b88"],
 
 Cell[CellGroupData[{
 
@@ -560,8 +560,8 @@ Cell[BoxData[{
      RowBox[{"Black", ",", "15"}], "]"}]}]}], "]"}]}], "Input",
  CellChangeTimes->{{3.828205813018968*^9, 3.8282059093190303`*^9}, {
   3.8282060329915996`*^9, 
-  3.8282060362760415`*^9}},ExpressionUUID->"3c3f79e4-4434-47e8-9d69-\
-292e7bc0dd80"],
+  3.8282060362760415`*^9}},ExpressionUUID->"22ca8f5c-7bc9-4d0d-9a59-\
+e6112647abad"],
 
 Cell[BoxData[
  GraphicsBox[
@@ -848,8 +848,8 @@ Cell[BoxData[
   FormatType->TraditionalForm,
   FrameTicks->None]], "Output",
  CellChangeTimes->{
-  3.828206036777072*^9},ExpressionUUID->"9511f600-c685-4d6e-b63d-\
-04fd7c1111d0"]
+  3.828206036777072*^9},ExpressionUUID->"2414ec70-75ac-4bac-922d-\
+d23df4a546cf"]
 }, Open  ]],
 
 Cell["\<\
@@ -861,7 +861,7 @@ Since H has 9 edges and v is a \[Rho]-labeling, the graph H decomposes K_19:\
   3.8282060192989707`*^9, 3.828206072050426*^9}, {3.828206104203097*^9, 
   3.828206153603511*^9}},
  Background->RGBColor[
-  0.94, 0.91, 0.88],ExpressionUUID->"958398aa-af1b-4ab1-b1da-be96d88c87da"],
+  0.94, 0.91, 0.88],ExpressionUUID->"480b2ad7-676e-44a7-a0bb-791c6b3a4518"],
 
 Cell[CellGroupData[{
 
@@ -1008,8 +1008,8 @@ Cell[BoxData[{
    3.827253764936967*^9, 3.8272537721789465`*^9}, {3.827254081502104*^9, 
    3.827254154693986*^9}, 3.828205811744436*^9, {3.828205854109807*^9, 
    3.828205855805326*^9}, {3.828206074925182*^9, 
-   3.828206098500024*^9}},ExpressionUUID->"eb962a33-1d5c-41ad-950e-\
-90e93442bac5"],
+   3.828206098500024*^9}},ExpressionUUID->"3d76884a-597f-4c66-b7b3-\
+3ed48f34e06b"],
 
 Cell[BoxData[
  TagBox[
@@ -1088,8 +1088,8 @@ Cell[BoxData[
    3.8272534623193083`*^9, 3.8272535603685355`*^9, 3.827253617453027*^9, 
    3.8272536579221964`*^9, 3.827253716928731*^9, 3.8272537729676666`*^9, {
    3.8282057304213233`*^9, 3.8282057514052444`*^9}, 3.828206100365011*^9, 
-   3.828206156178688*^9},ExpressionUUID->"2a101ffc-4ed4-478b-9809-\
-22e533b0f4fa"]
+   3.828206156178688*^9},ExpressionUUID->"025fa144-dfdf-40d3-94af-\
+e0ed41391de4"]
 }, Open  ]]
 }, Open  ]]
 },
@@ -1111,31 +1111,31 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 205, 3, 125, "Title",ExpressionUUID->"0da06984-a637-435a-afef-7051a05ff9e5"],
-Cell[788, 27, 175, 4, 32, "Input",ExpressionUUID->"d1761467-2d2e-4ec0-a3c8-c9b8504ade6b"],
-Cell[966, 33, 545, 10, 83, "Text",ExpressionUUID->"a8a7ceec-f057-43d6-b0ef-d35d42b48d2c"],
+Cell[580, 22, 205, 3, 125, "Title",ExpressionUUID->"226a4457-c10b-48c8-9514-392e80df1872"],
+Cell[788, 27, 175, 4, 32, "Input",ExpressionUUID->"a1368863-372a-420c-a42e-fae95e105eb0"],
+Cell[966, 33, 545, 10, 83, "Text",ExpressionUUID->"71f568fc-2740-45e5-b38d-43a2588c7b65"],
 Cell[CellGroupData[{
-Cell[1536, 47, 2546, 72, 99, "Input",ExpressionUUID->"9f46cf68-3b50-43e1-ad92-8542521efded"],
-Cell[4085, 121, 4413, 105, 164, "Output",ExpressionUUID->"2f0b3302-701c-4f32-b9f3-9d1a2e363be3"]
+Cell[1536, 47, 2546, 72, 99, "Input",ExpressionUUID->"3f2d4bfb-c73b-4399-826e-f11c76c41f6f"],
+Cell[4085, 121, 4413, 105, 164, "Output",ExpressionUUID->"00cad288-6989-403b-b744-1f0e6f969e3a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[8535, 231, 3897, 89, 320, "Input",ExpressionUUID->"8b970e23-f7a0-4454-b782-7ae39501652a"],
-Cell[12435, 322, 2719, 56, 516, "Output",ExpressionUUID->"4d09fc18-fbfa-4f3a-9f7b-649d0af75489"]
+Cell[8535, 231, 3897, 89, 320, "Input",ExpressionUUID->"e881dab0-1436-4a07-bda0-da4f55eaab94"],
+Cell[12435, 322, 2719, 56, 516, "Output",ExpressionUUID->"b447b57e-fa35-4a68-872f-14ba7f14e5ae"]
 }, Open  ]],
-Cell[15169, 381, 390, 8, 83, "Text",ExpressionUUID->"121bbdd4-9f0f-46b4-9c1a-c54eec167f5c"],
+Cell[15169, 381, 390, 8, 83, "Text",ExpressionUUID->"e538c419-8515-4986-9cc3-0da3a4a73e12"],
 Cell[CellGroupData[{
-Cell[15584, 393, 2108, 61, 77, "Input",ExpressionUUID->"c3e9fb1e-ad31-40c0-b902-bc50debd1dc0"],
-Cell[17695, 456, 2382, 45, 147, "Output",ExpressionUUID->"f1fc22c5-354c-45c8-805a-53f677eb4bb7"]
+Cell[15584, 393, 2108, 61, 77, "Input",ExpressionUUID->"e92085b8-acbb-4fb2-90aa-573e5efd0f24"],
+Cell[17695, 456, 2382, 45, 147, "Output",ExpressionUUID->"68d99874-18aa-478f-b66f-04c429ed3b83"]
 }, Open  ]],
-Cell[20092, 504, 422, 6, 57, "Text",ExpressionUUID->"e5867779-b793-4d28-8fc0-d0ccebb4b24e"],
+Cell[20092, 504, 422, 6, 57, "Text",ExpressionUUID->"6a3437da-702c-46b5-873a-9de0e5a49b88"],
 Cell[CellGroupData[{
-Cell[20539, 514, 1852, 49, 55, "Input",ExpressionUUID->"3c3f79e4-4434-47e8-9d69-292e7bc0dd80"],
-Cell[22394, 565, 11879, 286, 156, "Output",ExpressionUUID->"9511f600-c685-4d6e-b63d-04fd7c1111d0"]
+Cell[20539, 514, 1852, 49, 55, "Input",ExpressionUUID->"22ca8f5c-7bc9-4d0d-9a59-e6112647abad"],
+Cell[22394, 565, 11879, 286, 156, "Output",ExpressionUUID->"2414ec70-75ac-4bac-922d-d23df4a546cf"]
 }, Open  ]],
-Cell[34288, 854, 523, 9, 57, "Text",ExpressionUUID->"958398aa-af1b-4ab1-b1da-be96d88c87da"],
+Cell[34288, 854, 523, 9, 57, "Text",ExpressionUUID->"480b2ad7-676e-44a7-a0bb-791c6b3a4518"],
 Cell[CellGroupData[{
-Cell[34836, 867, 6120, 144, 386, "Input",ExpressionUUID->"eb962a33-1d5c-41ad-950e-90e93442bac5"],
-Cell[40959, 1013, 3637, 78, 530, "Output",ExpressionUUID->"2a101ffc-4ed4-478b-9809-22e533b0f4fa"]
+Cell[34836, 867, 6120, 144, 386, "Input",ExpressionUUID->"3d76884a-597f-4c66-b7b3-3ed48f34e06b"],
+Cell[40959, 1013, 3637, 78, 530, "Output",ExpressionUUID->"025fa144-dfdf-40d3-94af-e0ed41391de4"]
 }, Open  ]]
 }, Open  ]]
 }
